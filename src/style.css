@@ -1,0 +1,43 @@
+.bottomright-box {
+    margin-top: 1rem;
+}
+.bottomright-box .profile-notification {
+    padding: 0 0 1rem 0;
+}
+.bottomright-box .profile-notification a .notification {
+    color: #fff;
+}
+.bottomright-box .profile-notification a .notification:hover{
+    position: relative;
+    left: 0rem;
+}
+.iposita-notification:hover{
+    background: #2A4466 !important;
+}
+.umuti-notification:hover{
+    background: #46CADF !important;
+}
+.bottomright-box .profile-notification a .notification .not-title {
+    margin: 0 0 0.5rem 0;
+    font-family: "Gotham Bold";
+    display: flex;
+    justify-content: space-between;
+}
+.notification .not-title .date {
+    font-family: "Gotham Book";
+    font-size: 0.6rem;
+}
+.bottomright-box .profile-notification a .notification .not-content {
+    font-size: 0.7rem;
+}
+.main-title {
+    text-align: center;
+    padding: 0.7rem 1rem;
+    margin: 0 0 1rem 0;
+    display: flex;
+    justify-content: space-between;
+    background: #fff;
+    border-top-left-radius: 0.4rem;
+    border-top-right-radius: 0.4rem;
+    border-bottom: 1px solid #ccc;
+}
